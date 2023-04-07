@@ -1,0 +1,17 @@
+{
+  "name": "fmv4hgv2lc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.2.1"
+  },
+  "dependencies": {
+    "electron-store": "^8.1.0"
+  }
+}
